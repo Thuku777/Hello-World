@@ -1,2 +1,5 @@
-# Hello-World
-Just another repository
+#Hello-World
+
+Hello,
+Am Elvis,
+Am a student pursuing software development.
